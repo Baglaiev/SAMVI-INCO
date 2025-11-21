@@ -22,6 +22,6 @@ streamlit>=1.30.0
 python-dotenv>=1.0.0
 
 # Additional dependencies that may be needed
+typing-extensions>=4.5.0
 numpy>=1.24.0
 pandas>=2.0.0
-typing-extensions>=4.5.0
